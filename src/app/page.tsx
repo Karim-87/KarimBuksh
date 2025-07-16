@@ -34,7 +34,7 @@ export default function Home() {
       {/* Image Section */}
       <div className="flex-1 flex justify-center  md:mb-0">
         <Image
-          src="/image1.PNG"
+          src="/image1.png"
           alt="Profile picture"
           width={100}
           height={100}
